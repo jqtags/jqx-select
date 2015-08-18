@@ -2,15 +2,8 @@ _tag_("jqtags.x.select",function(select){
 	
 	var jq = module("jQuery");
 	
-	//$.fn.editable.defaults.mode = 'inline';
-	$.fn.editable.defaults.validate = function(v){
-		//console.log("validating",v);
-		//return "Fuck you"
-	};
-
-
 	return {
-	    tagName: "jqx-selec",
+	    tagName: "jqx-select",
 	    events: {
 	    },
 	    accessors: {
