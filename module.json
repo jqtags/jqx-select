@@ -1,0 +1,11 @@
+{
+	"name": "jqtags/jqx-select",
+	"jqtags/jqx-select": {
+		"js": ["jqtags.x.select.js"],
+		"on": ["webmodules/jqtag", "jqmodules/x-editable"]
+	},
+	"jqtags/jqx-select/test": {
+		"js": ["test/jqtags.x.select.test.js"],
+		"on": ["jqtags/jqx-select"]
+	}
+}

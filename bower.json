@@ -1,0 +1,22 @@
+{
+  "name": "jqtags-jqx-select",
+  "main": "jqtags.x.select.js",
+  "authors": [
+    "Lalit Tanwar <lalit.tanwar07@gmail.com>"
+  ],
+  "description": "fancy bootstrap inline edit",
+  "keywords": [
+    "pitana",
+    "jquery"
+  ],
+  "dependencies": {
+    "webmodules-jqtag": ">=0.0.4",
+    "jqmodules-x-editable": ">=1.5.2"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
