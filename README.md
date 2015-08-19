@@ -16,7 +16,7 @@ Using jQuery you can get/set value
 
 ```javascript
 
-$("myselectbox").val("akb");
+$(".myselectbox").val("akb");
 
 ```
 
